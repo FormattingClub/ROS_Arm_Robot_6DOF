@@ -17,3 +17,5 @@ ROS六自由机械臂
   Joint4------>D9
   Joint5------>D10
   Joint6------>D11
+ 机械臂淘宝链接：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.143c2e8dSDD6in&id=36534575765&_u=f2oj19jnc2e2
+ 我买的是不带舵机的，舵机自己买能便宜60多块钱
